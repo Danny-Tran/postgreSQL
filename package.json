@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Danny-Tran/postgreSQL/issues"
   },
-  "homepage": "https://github.com/Danny-Tran/postgreSQL#readme"
+  "homepage": "https://github.com/Danny-Tran/postgreSQL#readme",
+  "dependencies": {
+    "knex": "^0.16.5"
+  }
 }
