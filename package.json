@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/Danny-Tran/postgreSQL#readme",
   "dependencies": {
-    "knex": "^0.16.5"
+    "knex": "^2.4.0"
   }
 }
